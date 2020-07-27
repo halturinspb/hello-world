@@ -1,2 +1,1 @@
-# hello-world
-another repository
+Это просто тестовая запись чтобы поянть как рабоатет GITHUB)
